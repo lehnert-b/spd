@@ -11,6 +11,8 @@ spd is
 
 Executable files can be found as "Release" under https://github.com/lehnert-b/spd/releases
 
+A short introduction video is on https://youtu.be/zgKoUX2DUHA
+
 Please read the PDF file for instructions of how to use the programm: https://github.com/lehnert-b/spd/blob/main/spd%20Description%20and%20Manual.pdf
 
 
